@@ -1,0 +1,15 @@
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/bin/Debug/net6.0/seminar1.1
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/bin/Debug/net6.0/seminar1.1.deps.json
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/bin/Debug/net6.0/seminar1.1.runtimeconfig.json
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/bin/Debug/net6.0/seminar1.1.dll
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/bin/Debug/net6.0/seminar1.1.pdb
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.csproj.AssemblyReference.cache
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.AssemblyInfoInputs.cache
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.AssemblyInfo.cs
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.csproj.CoreCompileInputs.cache
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.dll
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/refint/seminar1.1.dll
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.pdb
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/seminar1.1.genruntimeconfig.cache
+/Users/djem79/Library/Mobile Documents/com~apple~CloudDocs/Geek/C#seminar/seminar1.1/obj/Debug/net6.0/ref/seminar1.1.dll
