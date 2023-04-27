@@ -77,7 +77,7 @@ MaxDigit();
 // Задача 3
 //Напишите программу, которая принимает на вход число и проверяет, кратно ли оно одновременно a и b.
 
-
+/*
 void Cratnost (int a, int b, int num)
 {
     if (num % a == 0 && num % b == 0)
@@ -99,14 +99,14 @@ Console.WriteLine("Enter your 2 devider: ");
 int dev2 = Convert.ToInt32(Console.ReadLine());
 
 Cratnost (dev1, dev2, new_user_num);
-
+*/
 
 
 //Задача 4
 //Напишите программу, которая выводит случайное трёхзначное число и удаляет вторую цифру этого числа.
 //456 -> 46, 789 -> 79
 
-/*
+
 int DeletDec()
 {   
     int randomNumber = new Random().Next(100, 1000);
@@ -120,4 +120,4 @@ int DeletDec()
 }
 
 Console.WriteLine($"Your number is {DeletDec()}");
-*/
+

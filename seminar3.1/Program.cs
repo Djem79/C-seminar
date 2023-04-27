@@ -82,6 +82,7 @@ Console.WriteLine($"Distance AB is {dist:f3}");
 //5 -> 1, 4, 9, 16, 25.
 //2 -> 1,4
 
+/*
 void SquareFinder() 
 {
     Console.WriteLine("Input number; ");
@@ -109,4 +110,39 @@ void SquareFinder()
        // Console.WriteLine("Impossible value!");
     }
 }
-SquareFinder();
+*/
+//SquareFinder(
+
+void SquareFinder1 (int numberN) 
+{
+    int current_i = 1;
+    while(current_i <= numberN)
+        {
+            int stepen = 4;
+            double res = Math.Pow(current_i, stepen);
+            Console.Write($"{res:f0}, ");
+            current_i++;
+        }
+    Console.WriteLine("\b\b.");
+}
+
+void SquareFinder2(int numberN)
+{
+        int current_i = 1;
+        while (current_i >= numberN)
+        {
+            Console.Write(current_i * current_i + ", ");
+            current_i --;
+        }
+        Console.WriteLine("\b\b.");
+}
+
+Console.WriteLine("Input number: ");
+int user_numberN = Convert.ToInt32(Console.ReadLine());
+
+if (user_numberN > 0)
+    SquareFinder1(user_numberN);
+else
+    SquareFinder2(user_numberN);
+
+

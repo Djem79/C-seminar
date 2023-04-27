@@ -64,7 +64,7 @@ while (current_i <= numN)
 //456 % 100 -> 56
 //456 / 10 -> 45
 //456 / 100 -> 4
-
+/*
 Console.WriteLine("Input your number:");
 int num = Convert.ToInt32(Console.ReadLine());
 
@@ -78,3 +78,4 @@ else
 {
     Console.WriteLine ("Your number is not 3 digits");
 }
+*/
